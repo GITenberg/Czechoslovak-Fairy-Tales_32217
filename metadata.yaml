@@ -1,0 +1,48 @@
+_repo: Czechoslovak-Fairy-Tales_32217
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Matulka, Jan
+    birthdate: 1890
+    deathdate: 1972
+    gutenberg_agent_id: '35732'
+    url: http://www.gutenberg.org/2009/agents/35732
+    wikipedia: http://en.wikipedia.org/wiki/Jan_Matulka
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fillmore, Parker
+    alias: Fillmore, Parker H. (Parker Hoysted)
+    birthdate: 1878
+    deathdate: 1944
+    gutenberg_agent_id: '8828'
+    url: http://www.gutenberg.org/2009/agents/8828
+description: ''
+gutenberg_issued: '2010-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32217'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales -- Czechoslovakia'
+tableOfContents: 'Longshanks, Girth, and Keen: the story of three wonderful serving
+  men -- The three golden hairs: the story of a charcoal-burner''s son who married
+  a princess -- The flaming horse: the story of a country where the sun never shines
+  -- The three citrons: the story of a prince who climbed the glass hill -- Prince
+  Bayaya: the story of a magic horse -- Katcha and the devil: the story of a clinging
+  vine -- The betrothal gifts: the story of Kubik and the frog -- Grandfather''s eyes:
+  the story of three wicked Yezinkas -- Rattle-rattle-rattle and chink-chink-chink:
+  the story of Long Beard, the dwarf, and the two sisters -- The bird with the golden
+  gizzard: the story of two brothers -- The wood maiden: the story of Betushka and
+  the golden birch leaves -- The golden spinning wheel: the story of King Dobromil
+  and the good Dobrunka -- The golden godmother: the story of poor Lukas -- The golden
+  duck: the story of Prince Raduz and the faithful Ludmila -- The story that never
+  ends.'
+title: Czechoslovak Fairy Tales
+url: http://www.gutenberg.org/ebooks/32217
